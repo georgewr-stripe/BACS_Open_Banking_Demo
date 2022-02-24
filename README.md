@@ -13,6 +13,8 @@ STRIPE_SECRET_KEY={{ stripe_live_secret_key }}
 # Getting Started
 1) Clone this Repo
 
+    `> git clone 'https://github.com/georgewr-stripe/BACS_Open_Banking_Demo.git'`
+
 2) Install Packages
 
     `> npm install`
